@@ -1,0 +1,6 @@
+db
+data/config.json
+plugins/course.py
+plugins/rasp.py
+**/__pycache__
+.vscode
